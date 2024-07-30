@@ -21,7 +21,7 @@ L’esercizio di oggi è suddiviso in milestone ed è importante che ne seguiate
 ### Milestone 3
 
 - [&check;] Nome repo 2: vite-boolfolio
-- Iniziamo ad occuparci della parte front-office della nostra applicazione: creiamo un nuovo progetto Vue 3 con Vite e installiamo axios.
+- [&check;] Iniziamo ad occuparci della parte front-office della nostra applicazione: creiamo un nuovo progetto Vue 3 con Vite e installiamo axios.
 - Colleghiamo questo progetto ad una repo separata.
 
 ### Milestone 4
